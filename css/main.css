@@ -1752,7 +1752,7 @@ nav a:hover {
    background: url(../img/studio-bg.jpg) no-repeat center center/cover;
 }
 .studio-area .overlay-bg {
-   background: rgba(205, 23, 144, 0.473);
+  
 }
 .studio-area .studio-thumb {
    border-radius: 3px;
